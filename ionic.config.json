@@ -1,0 +1,8 @@
+{
+  "name": "test-new-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "9448596f"
+}
